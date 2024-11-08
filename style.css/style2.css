@@ -1,0 +1,31 @@
+h1.header1{
+    color: #1BC768;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    position: relative;
+    top: 25px;
+}
+h1.header2{
+    color: #252B43;
+    font-weight: 700;
+    font-family: sans-serif;
+    font-size: 45px;
+    position: relative;
+    
+}
+h1.header3{
+    color: #737373;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    position: relative;
+    bottom: 30px;
+}
+div.header{
+    display: flex;
+    flex-direction: column;
+    margin-left: 230px;
+    margin-top: 120px;
+    
+}
